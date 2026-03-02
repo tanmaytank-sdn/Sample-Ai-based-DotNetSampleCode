@@ -1,0 +1,2 @@
+bin/ obj/ .vs/ .user .suo .cache .log appsettings.Development.json .env
+node_modules/ dist/ coverage/
