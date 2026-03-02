@@ -3,7 +3,7 @@
 This Proof of Concept demonstrates the architectural and structural difference between:
 
 🔴 **Traditional .NET API Development**  
-🟢 **AI-Assisted Structured Development (Copilot / OpenAI Guided)**  
+🟢 **AI-Assisted Structured Development (Copilot)**  
 
 The objective is to showcase how AI-guided development improves:
 
@@ -35,8 +35,6 @@ The traditional implementation reflects a direct service-based structure with ti
 **Example Methods Implemented:**
 
 - `AddUserAsync(...)`
-- `UpdateUserAsync(...)`
-- `SendRegistrationEmailAsync(...)`
 
 While functional and production-ready, this structure has scalability limitations when the application grows.
 
